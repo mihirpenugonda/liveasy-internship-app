@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511701723869",
+    "project_id": "phone-auth-liveasy",
+    "storage_bucket": "phone-auth-liveasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511701723869:android:55e3fcd0005beccf9b8934",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511701723869-gjujomr44f3q7msh958c7o6echj7t8v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liveasy",
+            "certificate_hash": "243ebefef919b2b204183b4491901203f29395dd"
+          }
+        },
+        {
+          "client_id": "511701723869-hvtm1p5k6ofho17b4e172lqegkkar6bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRlCQCs1Sx9ENWtHHd_hvIan8cfOfWtys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511701723869-hvtm1p5k6ofho17b4e172lqegkkar6bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
